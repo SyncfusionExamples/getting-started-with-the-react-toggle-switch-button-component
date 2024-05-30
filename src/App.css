@@ -1,0 +1,7 @@
+@import "../node_modules/@syncfusion/ej2-base/styles/fluent.css";
+@import "../node_modules/@syncfusion/ej2-react-buttons/styles/fluent.css";
+
+.App {
+  text-align: center;
+  margin: 2% 40%;
+}
